@@ -1,5 +1,5 @@
-<h1>Projeto para captrar vagas do Linkedin por Web Scraping e criar estatística com os dados.</h1>
-<h1>Tecnologias</h1>
+<strong>Projeto para captrar vagas do Linkedin por Web Scraping e criar estatística com os dados.</strong>
+<strong>Tecnologias</strong>
  <ul>
  <li>Htmlunit</li>
  <li>Spring Data</li>
